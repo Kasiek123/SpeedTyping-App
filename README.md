@@ -10,3 +10,8 @@
   <li>Once you have typed the entire sentence, your typing accuracy and words per minute (WPM) will be displayed.</li>
   <li>Click the "Another sentence" button to start a new typing test with a different random sentence.</li>
 </ol>
+
+<h2>Demo</h2>
+<div align="center">
+  <img src="https://github.com/Kasiek123/SpeedTyping-App/assets/161139445/10029876-223f-4638-b4e9-931a666a2ae6" alt="SpeedTypingApp_Demo">
+</div>
